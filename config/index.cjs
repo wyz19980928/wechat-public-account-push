@@ -16,7 +16,7 @@ const USER_CONFIG = {
   PROVINCE: '江苏',
   CITY: '泰州',
   
-🗓️{{date.DATA}}
+{{date.DATA}}
 城市：{{city.DATA}}
 天气☁️：{{weather.DATA}}
 温度🌡️: {{min_temperature.DATA}}--{{max_temperature.DATA}}
