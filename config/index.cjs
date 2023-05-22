@@ -13,7 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'f2209723b15eec388aef4d6172d4d356',
 
- 
+  PROVINCE: '江苏',
+  CITY: '泰州',
   
    
   SWITCH: {
@@ -60,8 +61,7 @@ const USER_CONFIG = {
       id: 'owRFT5_M0VrKzp4zPv0xqm1RUd-4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'IWfwwvAp68VuHcKAZdh1INEMN7AzDTC6M12uUnlNNNw',
-       PROVINCE: '江苏',
-       CITY: '泰州',
+      
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-21',
       horoscopeDateType: '今日',
